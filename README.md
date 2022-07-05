@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FevenSeyfu
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on any intermediate level react project 
+- 🌱 I’m currently learning laravel
+- 💞️ I’m looking to collaborate on any intermediate level laravelct 
 - 📫 How to reach me ...
 
 <!---
