@@ -47,14 +47,14 @@
 
 ---
 
-### :woman_technologist: projects :
+<!-- ### :woman_technologist: projects :
 
 <div id="sample-projects>
   <div class="card"></div>
   <div class="card-description></div>
 </div>
          
----
+--- -->
          
 ### :woman_technologist: Github Stats :
          
