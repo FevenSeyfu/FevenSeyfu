@@ -11,7 +11,7 @@
 ### :woman_technologist: About Me :
 
 - 👀 I’m Feven Seyfu, From 🇪🇹
-- 🤔 I'm interested in web development.
+- 🤔 I'm interested in programming and problem solving.
 - 💻 I've worked with PHP, Laravel framework.
 - 💞️ I’m looking to collaborate on any intermediate level laravel projects.
 - 🌐 Let's Connect: 
