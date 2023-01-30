@@ -13,7 +13,7 @@
   - 👀 I’m Feven Seyfu, From 🇪🇹
   - 🤔 I'm interested in programming and problem solving.
   - 💻 I've worked with PHP, Laravel framework.
-  - 💞️ I’m looking to collaborate on any intermediate level laravel projects.
+  - 💞️ I’m looking to collaborate on any intermediate level Javascript projects.
   - 🌐 Let's Connect: 
   <div id="badges">
       <a href="https://www.linkedin.com/in/feven-seyfu-0008641b0">
