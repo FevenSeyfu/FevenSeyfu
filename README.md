@@ -43,6 +43,7 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+    <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge%22">
   </div>
   
   ---
