@@ -11,17 +11,20 @@
   ### :woman_technologist: About Me :
   
   - 👀 I’m Feven Seyfu, From 🇪🇹
-  - 🤔 I'm interested in programming and problem solving.
+  - 🤔 I'm interested in programming and problem-solving.
   - 💻 I've worked with PHP, Laravel framework.
-  - 💞️ I’m looking to collaborate on any intermediate level Javascript projects.
+  - 💞️ I’m looking to collaborate on any intermediate-level Javascript projects.
   - 🌐 Let's Connect: 
   <div id="badges">
       <a href="https://www.linkedin.com/in/feven-seyfu-0008641b0">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
+      <a href="https://fevenseyfu.medium.com/">
+        <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+      </a>
       <a href="https://codepen.io/F3b3n">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen Badge"/>
-      </a>
+      </a> 
       <a href="https://twitter.com/FevenSeyfu">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
