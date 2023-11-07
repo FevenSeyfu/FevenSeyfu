@@ -61,6 +61,13 @@
     <div class="card-description">
         <p> A Youtube app clone mini-project made with HTML and CSS</p>
     </div>
+        <div class="card">
+      <a href="https://main--joyful-moxie-10b566.netlify.app/">
+        <img src="https://socialify.git.ci/FevenSeyfu/cine-scope/image?language=1&name=1&owner=1&pattern=Charlie%20Brown&theme=Dark" width="300" height="175">
+      </a>
+    <div class="card-description">
+        <p> 🎬 CineScope is a dynamic and user-friendly movie listing web application that allows movie enthusiasts to effortlessly explore a vast collection of films. </p>
+    </div>
   </div>
            
   ---
