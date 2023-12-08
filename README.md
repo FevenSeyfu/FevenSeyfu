@@ -7,8 +7,7 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
   
-  
-  ### :woman_technologist: About Me :
+  ### 👩‍💻 :  About Me :
   
   - 👀 I’m Feven Seyfu, From 🇪🇹
   - 🤔 I'm interested in programming and problem-solving.
@@ -35,7 +34,7 @@
   
   ---
   
-  ### :woman_technologist: Technologies :
+  ### 👩‍💻: Technologies :
   
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,10 +56,10 @@
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   </div>
-  
+
+  <!--
   ---
-  
-  ### :woman_technologist: projects :
+  ### 👩‍💻: projects :
   
   <div id="sample-projects">
     <div class="card">
@@ -77,11 +76,11 @@
     <div class="card-description">
         <p> 🎬 CineScope is a dynamic and user-friendly movie listing web application that allows movie enthusiasts to effortlessly explore a vast collection of films. </p>
     </div>
-  </div>
+  </div> -->
            
   ---
            
-  ### :woman_technologist: Github Stats :
+  ### 👩‍💻: Github Stats :
            
   ![FevenSeyfu's Stats](https://github-readme-stats.vercel.app/api?username=FevenSeyfu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![FevenSeyfu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FevenSeyfu&theme=vue-dark&hide_border=true)
