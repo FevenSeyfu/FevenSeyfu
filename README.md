@@ -6,7 +6,9 @@
     Hey there! &#128578;
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1> 
-  ![](https://komarev.com/ghpvc/?username=FevenSeyfu&color=blueviolet&style=for-the-badge)
+  
+  ![](https://komarev.com/ghpvc/?username=FevenSeyfu&color=blueviolet&style=for-the-badge&base=100)
+  
   ### 👩‍💻 :  About Me :
   
   - 👀 I’m Feven Seyfu, From 🇪🇹
