@@ -29,6 +29,9 @@
       <a href="https://twitter.com/FevenSeyfu">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
+       <a href="https://www.frontendmentor.io/profile/FevenSeyfu">
+        <img src="https://img.shields.io/badge/Frontendmentor-white?style=for-the-badge&logo=frontendmentor&logoColor=blue" alt="FrontendMentors Badge"/>
+      </a>
   </div>
   <!-- <div align="center">
     <img src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif"/>
