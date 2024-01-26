@@ -15,7 +15,7 @@ Hello there! I'm Feven Seyfu from Ethiopia 🇪🇹.
 
 ## What I'm About 👀
 
-I'm passionate about programming and enjoy the thrill of solving problems with code. I have been coding for a while now as a hobby and ming, finding joy in the art of solving problems with code. My coding journey began as a hobby, exploring various technologies and continuously learning along the way.
+I'm passionate about programming and enjoy the thrill of solving problems with code. My coding journey began as a hobby, exploring various technologies and continuously learning along the way.
 
 As I transition into a full-time career as a dev, my primary focus is on becoming a skilled full-stack developer with a specialization in frontend technologies. I believe in the power of crafting intuitive and engaging user experiences.
 
