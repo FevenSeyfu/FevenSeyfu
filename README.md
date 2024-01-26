@@ -9,13 +9,23 @@
   
   ![](https://komarev.com/ghpvc/?username=FevenSeyfu&color=blueviolet&style=for-the-badge&base=100)
   
-  ### 👩‍💻 :  About Me :
-  
-  - 👀 I’m Feven Seyfu, From 🇪🇹
-  - 🤔 I'm interested in programming and problem-solving.
-  - 💻 I've worked with PHP, Laravel framework.
-  - 💞️ I’m looking to collaborate on any intermediate-level Javascript projects.
-  - 🌐 Let's Connect: 
+  ### 👩‍💻 :  About Me 👋:
+
+Hello there! I'm Feven Seyfu from Ethiopia 🇪🇹.
+
+## What I'm About 👀
+
+I'm passionate about programming and enjoy the thrill of solving problems with code. I have been coding for a while now as a hobby and ming, finding joy in the art of solving problems with code. My coding journey began as a hobby, exploring various technologies and continuously learning along the way.
+
+As I transition into a full-time career as a dev, my primary focus is on becoming a skilled full-stack developer with a specialization in frontend technologies. I believe in the power of crafting intuitive and engaging user experiences.
+
+During my journey, I've accumulated hands-on experience in PHP, particularly within the Laravel framework. Currently, I am immersed in the world of full-stack JavaScript, honing my skills with the MERN stack. I've undertaken various projects to apply and master these technologies—feel free to explore them in my repository.
+
+## Open for Collaboration 💞️
+
+I'm always eager to collaborate on interesting and challenging projects, particularly those involving intermediate-level JavaScript. If you have something exciting in mind, feel free to reach out!
+
+## Let's Connect 🌐
   <div id="badges">
       <a href="https://www.linkedin.com/in/feven-seyfu-0008641b0">
        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
