@@ -8,10 +8,6 @@
   </h1> 
   
   ![](https://komarev.com/ghpvc/?username=FevenSeyfu&color=blueviolet&style=for-the-badge&base=100)
-  
-  ### 👩‍💻 :  About Me 👋:
-
-Hello there! I'm Feven Seyfu from Ethiopia 🇪🇹.
 
 ## What I'm About 👀
 
