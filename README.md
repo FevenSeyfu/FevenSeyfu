@@ -45,7 +45,7 @@ I'm always eager to collaborate on interesting and challenging projects, particu
   
   ---
   
-  ### 👩‍💻: Technologies :
+  ## 👩‍💻 Technologies :
   
   <div>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -91,7 +91,7 @@ I'm always eager to collaborate on interesting and challenging projects, particu
            
   ---
            
-  ### 👩‍💻: Github Stats :
+  ## 👩‍💻 Github Stats :
            
   ![FevenSeyfu's Stats](https://github-readme-stats.vercel.app/api?username=FevenSeyfu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   ![FevenSeyfu's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FevenSeyfu&theme=vue-dark&hide_border=true)
