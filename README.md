@@ -67,6 +67,23 @@ I'm always eager to collaborate on interesting and challenging projects, particu
     <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
     <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white">
   </div>
+  
+ ## Achievements & Badges
+
+### 🎖️ Hackathons
+
+- **[InnovateX Hackathon](https://github.com/FevenSeyfu/Learnovation-by-innov8ors)**  
+  <img src="https://github.com/user-attachments/assets/9b17e5c2-bd6b-400c-9deb-c75c7bfa7a41" alt="Learnovation Badge" width="100" height="100">
+
+### 🏆 Contributions
+
+- **[Frontend Queens Open Source Project](https://github.com/FevenSeyfu/Global-Code-Queens-MyTeam-Website)**  
+  ![Open Source Contributor](https://img.shields.io/badge/Contributor-Open%20Source-brightgreen?style=for-the-badge)
+  [![Top Contributor](https://img.shields.io/badge/Top%20Contributor-blue?style=for-the-badge)](https://credsverse.com/credentials/385eeca8-6e2e-4244-a881-2cbb789e3e7b?recipient=true)
+
+
+
+
 
   <!--
   ---
